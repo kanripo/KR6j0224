@@ -1,0 +1,4 @@
+001-0743a00	T 001-0743a	buddhist/T-taisho/T19/07/T19-0743.png
+001-0743b00	T 001-0743b	buddhist/T-taisho/T19/07/T19-0743.png
+001-0743c00	T 001-0743c	buddhist/T-taisho/T19/07/T19-0743.png
+001-0744a00	T 001-0744a	buddhist/T-taisho/T19/07/T19-0744.png
